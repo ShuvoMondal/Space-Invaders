@@ -1,3 +1,3 @@
 # Python-Game
-Space Invaders Python game\n
+Space Invaders Python game--
 Module used: pygame,random,math,mixer
